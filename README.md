@@ -21,12 +21,12 @@ Report should have five components, each worth 5 percent of grade.
 >>Name: Trending YouTube Video Statistics and Comments  
 >>Source: https://www.kaggle.com/datasnaek/youtube  
 >>Files:
->>>`USComments.csv` -> 691722 data
->>>`USvideos.csv` -> 7998 data
->>>`US_category_id.json`
->>>`GBComments.csv` -> 718744 data
->>>`GBvideos.csv` -> 7995 data
->>>`GB_category_id.json`
+>>>`USComments.csv` -> 691722 data  
+>>>`USvideos.csv` -> 7998 data  
+>>>`US_category_id.json`  
+>>>`GBComments.csv` -> 718744 data  
+>>>`GBvideos.csv` -> 7995 data  
+>>>`GB_category_id.json`  
 
 
 
